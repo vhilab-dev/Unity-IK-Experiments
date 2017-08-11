@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Plugins/RootMotion/FinalIK/_DEMOS/Virtual Reality/VRIK (Steam VR).unity
+  isLoaded: 1
+  isActive: 1
